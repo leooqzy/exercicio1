@@ -7,7 +7,7 @@
     
     $resto = $dividendo % $divisor;
 
-    echo "O resultado da divisão é de: $resq <br>";
-    echo "Sobrou: $resto";
+    echo "O resultado da divisão é de: $resq \n";
+    echo "Sobrou: $resto \n";
 
 ?>

@@ -15,6 +15,6 @@
     $result = $rest / 10;
 
 
-    echo "O resultado total foi de: $result ";
+    echo "O resultado total foi de: $result \n";
 
 ?>
