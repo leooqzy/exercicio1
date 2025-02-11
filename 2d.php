@@ -1,17 +1,15 @@
 <?php
 
-    $salario = readline("DIgite o valor do salario mínimo: ");
-    $cem1 = $salario / 216; 
-    $qui = readline("Digite o tanto de quilowatts gasto na sua residência: ");
 
-    
+    $sa = 1518;
+    $qw = 2.168;
 
+    $qntgasta = readline("Quanto de quilowatts gasto na sua residência :\n");
 
-    echo "Valor a ser pago sem desconto $semdesc: ";
-    echo "Valor a ser pago com 10% de desconto $desc: ";
+    $valort = $qntgasta * $qw;
+    $valord = $valort - ($valort * 0.10);
 
-
-
+    echo "Valor a ser pago será de: $valort \n com desconto fica $valord \n";
 
 
 ?>
