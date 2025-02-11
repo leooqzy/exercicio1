@@ -1,0 +1,15 @@
+a) -456 = inteiro 
+b) false = booleano
+c) “0.87” = string
+d) 1.67 = decimal
+e) “Casa 8” = string
+f) 0 = inteiro
+g) 1000 =- inteiro
+h) true = booleano
+i) “-900” = string
+j) 3 = inteiro
+k) 0.0 = decimal
+l) -3.1415 = decimal
+m) 32150 = inteiro
+n) 128288 =inteiro
+o) “false” = booleano
