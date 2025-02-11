@@ -1,9 +1,9 @@
 <?php
 
-    $a = readline("digite o primeiro valor");
-    $b = readline("digite o segundo valor");
-    $c = readline("digite o terceiro valor");
-    $d = readline("digite o quarto valor");
+    $a = readline("digite o primeiro valor: ");
+    $b = readline("digite o segundo valor: ");
+    $c = readline("digite o terceiro valor: ");
+    $d = readline("digite o quarto valor: ");
 
     $n1 = $a * 1;
     $n2 = $b * 2;
