@@ -7,5 +7,5 @@
     } else {
         echo "Não é maior que 10!\n";
     }
-
+    
 ?>
