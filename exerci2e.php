@@ -1,6 +1,5 @@
 <?php
 
-    // Exercício 2e - Peso ideal
 
     function calculaPesoIdeal($altura, $sexo) {
         $sexo = strtoupper($sexo);
